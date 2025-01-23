@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Graphic and Multimedia Software**
 
-- 👨‍💻 All of my projects are available at [http://127.0.0.1:5500/index.html](http://127.0.0.1:5500/index.html)
+  - 👨‍💻 All of my projects are available at [my portfolio](http://127.0.0.1:5500/index.html)
 
 - 📫 How to reach me **wanamnizahirah@graduate.utm.my**
 
