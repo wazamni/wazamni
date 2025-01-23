@@ -1,5 +1,5 @@
 ## Hi👋, I'm Wan Amni Zahirah
-file:///C:/Users/User/Downloads/INDUSTRY%20TALK%201.pdf.pdf
+
 <!--
 **wazamni/wazamni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
