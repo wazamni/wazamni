@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Wan Amni Zahirah</h1>
-<h3 align="center">A passionate frontend developer from Malaysia</h3>
+<h3 align="center">Student of Graphic and Multimedia Software</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wazamni&label=Profile%20views&color=0e75b6&style=flat" alt="wazamni" /> </p>
 
 - 🌱 I’m currently learning **Graphic and Multimedia Software**
 
-- 👨‍💻 All of my projects are available at [my portfolio](http://127.0.0.1:5500/index.html)
+- 👨‍💻 You can see my portfolio at [my portfolio](http://127.0.0.1:5500/index.html)
 
 - 📫 How to reach me **wanamnizahirah@graduate.utm.my**
 
