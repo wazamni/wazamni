@@ -4,11 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wazamni&label=Profile%20views&color=0e75b6&style=flat" alt="wazamni" /> </p>
 
 - 🌱 I’m currently learning **C++ Programming**
-
 - 👨‍💻 You can access my portfolio at [my portfolio](wazamni.github.io/)
-
 - 📫 How to reach me **wanamnizahirah@graduate.utm.my**
-
 - 🧶 Fun fact **I love crochet**
 
 <h3 align="left">Connect with me:</h3>
