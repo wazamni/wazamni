@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wan Amni Zahirah</h1>
 <h3 align="center">Student of Computer Science (Graphic and Multimedia)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wazamni&label=Profile%20views&color=0e75b6&style=flat" alt="wazamni" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wazamni&color=ffb6c1&label=Profile%20views&style=flat" alt="wazamni" /> </p>
 
 - 🌱 I’m currently learning **C++ Programming**
 - 👨‍💻 You can access my portfolio at [my portfolio](https://wazamni.github.io/)
