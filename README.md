@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Wan Amni Zahirah</h1>
 <h3 align="center">Student of Computer Science (Graphic and Multimedia)</h3>
 
+<p align="center">
+  <img src="https://i.pinimg.com/736x/55/5a/b7/555ab7199dfcbd612508cf1319019ccb.jpg" alt="Pinterest Image" width="100">
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wazamni&color=ffb6c1&label=Profile%20views&style=flat" alt="wazamni" /> </p>
 
 - 🌱 I’m currently learning **C++ Programming**
