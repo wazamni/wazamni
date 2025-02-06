@@ -1,8 +1,13 @@
-<h1 align="center">Hi 👋, I'm Wan Amni Zahirah</h1>
+<h1 <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=F77B99&center=true&vCenter=true&width=700&lines=✨+HI+👋%2C+I'M+WAN+AMNI+ZAHIRAH!+✨;I'M+A+COMPUTER+SCIENCE+(GRAPHIC+%26+MULTIMEDIA)+🎨" alt="Typing SVG" /> </h1>
+  </a>
+</p>
+
 <h3 align="center">Student of Computer Science (Graphic and Multimedia)</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/55/5a/b7/555ab7199dfcbd612508cf1319019ccb.jpg" alt="Pinterest Image" width="100">
+  <img src="https://i.pinimg.com/originals/c6/81/65/c6816590b5a6d2c3d347eae0fa071e79.gif" width="200" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wazamni&color=ffb6c1&label=Profile%20views&style=flat" alt="wazamni" /> </p>
